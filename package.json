@@ -12,6 +12,7 @@
     "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "jquery": "^3.3.1",
+    "net-snmp": "^1.2.4",
     "popper.js": "^1.14.7"
   }
 }
